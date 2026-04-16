@@ -1,4 +1,8 @@
 # NEO-Player
-<img width="1919" height="911" alt="Screenshot 2026-04-12 165242" src="https://github.com/user-attachments/assets/7d44e26b-9ddd-4064-a625-1c89ba7313a9" />
+Dark Theme
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/fc7536be-a163-410b-8f9e-843c29ee755b" />
+
+Light Theme
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/57d1dea5-5bc4-4faf-ad00-458737a635d5" />
 
 “Minimal. Powerful. Yours.”
