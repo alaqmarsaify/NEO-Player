@@ -128,3 +128,14 @@ automatically permitted.
 ------------------------------------------------------------------------
 
 Made with care for a smoother, more personal media playback experience.
+
+Main Player
+<img width="1917" height="908" alt="Screenshot 2026-10-12 202040" src="https://github.com/user-attachments/assets/9dd6b7db-4c29-4a56-a600-b3a27a740eed" />
+
+Light Theme
+<img width="1917" height="911" alt="Screenshot 2026-10-12 202056" src="https://github.com/user-attachments/assets/8e3f0c99-7dc3-4549-9c69-a563e15df2eb" />
+
+Extra Features
+<img width="1868" height="837" alt="Screenshot 2026-10-12 202137" src="https://github.com/user-attachments/assets/3b047461-db9f-4c08-8d21-c5febb4f7c33" />
+<img width="1092" height="842" alt="Screenshot 2026-10-12 202146" src="https://github.com/user-attachments/assets/e7055d34-13d0-431a-9c6f-578535d38985" />
+
