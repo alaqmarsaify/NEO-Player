@@ -125,6 +125,18 @@ No license has been specified yet. Unless a license is added to this
 repository, all rights remain with the copyright holder and reuse is not
 automatically permitted.
 
+## Download
+
+## Download NEO Player
+
+Download the latest Windows installer from the [GitHub Releases page](https://github.com/alaqmarsaify/NEO-Player/releases/tag/v1.0.0).
+
+1. Download `NEO-Player-Setup-1.0.0.exe`.
+2. Open the downloaded file.
+3. Follow the installation instructions.
+
+**Note:** Windows may display a security warning because the installer is not code-signed.
+
 ------------------------------------------------------------------------
 
 Made with care for a smoother, more personal media playback experience.
